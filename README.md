@@ -1,5 +1,4 @@
 👗 Fashion MNIST Image Classification
-📘 Project Overview
 
 🔗 Google Colab Notebook:
 [https://colab.research.google.com/drive/1HsfEQ7qbvpBw98vKFbFK4b5Q2Jmh50lz?usp=sharing](Google_Collab_File_Link)
