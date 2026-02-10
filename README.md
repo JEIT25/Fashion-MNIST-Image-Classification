@@ -1,7 +1,7 @@
 👗 Fashion MNIST Image Classification
 
 🔗 Google Colab Notebook:
-[https://colab.research.google.com/drive/1HsfEQ7qbvpBw98vKFbFK4b5Q2Jmh50lz?usp=sharing](Google_Collab_File_Link)
+[Google_Collab_File_Link](https://colab.research.google.com/drive/1HsfEQ7qbvpBw98vKFbFK4b5Q2Jmh50lz?usp=sharing)
 
 Questions and Answers:
 1. What is the Fashion MNIST dataset? <br> The Fashion MNIST dataset is a group of 70,000 pictures of clothes in black and white. It is split into 60,000 pictures for training the computer and 10,000 for testing it. Every picture is small, only 28x28 pixels, and fits into one of 10 categories like shirts, sneakers, or pants.
